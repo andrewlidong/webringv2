@@ -31,6 +31,8 @@ const sites = [
 	{ url: 'https://www.mayer.cool/', title: 'mayer.cool', author: 'Dan Mayer' },
 	{ url: 'https://k-monk.org', title: 'River Dillon', author: 'River Dillon' },
   { url: 'https://www.saleh.sh/', title: 'saleh.sh', author: 'Saleh Alghusson' }
+  { url: 'https://andrewlidong.xyz//', title: 'Andrews Garden', author: 'Andrew Dong' }
+
 ]
 
 export default sites
